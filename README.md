@@ -1,5 +1,5 @@
-# color change
-## Sorce: JSON file and fetching JSON file to HTML
+# Pure JavaScript, Html and fetch fetching JSON file to HTML
+
  
 
 ## When user click the button it change desktop color and print out name of the color. This file will work on text editor's live server. 
